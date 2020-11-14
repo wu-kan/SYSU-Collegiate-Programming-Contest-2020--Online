@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {\Large A.}\Large \bf Welcome to SYSU}{2}%
+\contentsline {section}{\numberline {\Large B.}\Large \bf Formula}{3}%
+\contentsline {section}{\numberline {\Large C.}\Large \bf Island}{4}%
+\contentsline {section}{\numberline {\Large D.}\Large \bf Liz and the Blue Bird}{5}%
+\contentsline {section}{\numberline {\Large E.}\Large \bf Berth Allocation}{7}%
